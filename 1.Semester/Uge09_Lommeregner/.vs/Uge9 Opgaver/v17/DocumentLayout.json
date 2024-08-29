@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\Uge9 Opgaver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47F3AB9-F78A-473B-A9A4-9C47874E8EFE}|Uge9 Opgaver\\Uge9 Opgaver.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\uge9 opgaver\\uge9 opgaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47F3AB9-F78A-473B-A9A4-9C47874E8EFE}|Uge9 Opgaver\\Uge9 Opgaver.csproj|solutionrelative:uge9 opgaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\Uge9 Opgaver\\Uge9 Opgaver\\Program.cs",
+              "RelativeDocumentMoniker": "Uge9 Opgaver\\Program.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\Uge9 Opgaver\\Uge9 Opgaver\\Program.cs",
+              "RelativeToolTip": "Uge9 Opgaver\\Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAGMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:28:36.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

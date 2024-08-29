@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\ObserverPatternTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\ObserverPatternTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\ObserverPatternTest.csproj",
+        "projectName": "ObserverPatternTest",
+        "projectPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\ObserverPatternTest.csproj",
+        "packagesPath": "C:\\Users\\Jeppe Lynge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jeppe Lynge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
+                "projectPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "projectName": "ObserverPattern",
+        "projectPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "packagesPath": "C:\\Users\\Jeppe Lynge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jeppe Lynge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

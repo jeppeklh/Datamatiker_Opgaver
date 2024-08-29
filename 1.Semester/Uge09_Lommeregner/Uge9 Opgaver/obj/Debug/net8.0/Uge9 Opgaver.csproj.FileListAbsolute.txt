@@ -1,0 +1,14 @@
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\bin\Debug\net8.0\Uge9 Opgaver.exe
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\bin\Debug\net8.0\Uge9 Opgaver.deps.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\bin\Debug\net8.0\Uge9 Opgaver.runtimeconfig.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\bin\Debug\net8.0\Uge9 Opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\bin\Debug\net8.0\Uge9 Opgaver.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.AssemblyInfoInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.AssemblyInfo.cs
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\refint\Uge9 Opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\Uge9 Opgaver.genruntimeconfig.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge9 Opgaver\Uge9 Opgaver\obj\Debug\net8.0\ref\Uge9 Opgaver.dll

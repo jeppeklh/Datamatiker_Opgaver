@@ -1,0 +1,14 @@
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\bin\Debug\net8.0\Uge7 opgaver.exe
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\bin\Debug\net8.0\Uge7 opgaver.deps.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\bin\Debug\net8.0\Uge7 opgaver.runtimeconfig.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\bin\Debug\net8.0\Uge7 opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\bin\Debug\net8.0\Uge7 opgaver.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.AssemblyInfoInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.AssemblyInfo.cs
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\refint\Uge7 opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\Uge7 opgaver.genruntimeconfig.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge7 opgaver\Uge7 opgaver\obj\Debug\net8.0\ref\Uge7 opgaver.dll

@@ -1,0 +1,15 @@
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\bin\Debug\net8.0\Uge 15 Opgaver.exe
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\bin\Debug\net8.0\Uge 15 Opgaver.deps.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\bin\Debug\net8.0\Uge 15 Opgaver.runtimeconfig.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\bin\Debug\net8.0\Uge 15 Opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\bin\Debug\net8.0\Uge 15 Opgaver.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.AssemblyInfoInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.AssemblyInfo.cs
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.sourcelink.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\refint\Uge 15 Opgaver.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\Uge 15 Opgaver.genruntimeconfig.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-15-Opgaver\Uge 15 New Test\obj\Debug\net8.0\ref\Uge 15 Opgaver.dll

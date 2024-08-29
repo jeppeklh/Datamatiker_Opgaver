@@ -1,0 +1,14 @@
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\bin\Debug\net8.0\Uge 6 del 2.exe
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\bin\Debug\net8.0\Uge 6 del 2.deps.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\bin\Debug\net8.0\Uge 6 del 2.runtimeconfig.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\bin\Debug\net8.0\Uge 6 del 2.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\bin\Debug\net8.0\Uge 6 del 2.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.AssemblyInfoInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.AssemblyInfo.cs
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\refint\Uge 6 del 2.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\Uge 6 del 2.genruntimeconfig.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 del 2\obj\Debug\net8.0\ref\Uge 6 del 2.dll

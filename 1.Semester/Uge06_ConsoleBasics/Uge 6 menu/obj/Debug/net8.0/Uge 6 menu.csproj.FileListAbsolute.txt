@@ -1,0 +1,14 @@
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\bin\Debug\net8.0\Uge 6 menu.exe
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\bin\Debug\net8.0\Uge 6 menu.deps.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\bin\Debug\net8.0\Uge 6 menu.runtimeconfig.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\bin\Debug\net8.0\Uge 6 menu.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\bin\Debug\net8.0\Uge 6 menu.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.AssemblyInfoInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.AssemblyInfo.cs
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\refint\Uge 6 menu.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\Uge 6 menu.genruntimeconfig.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\uge6 opgaver\Uge 6 menu\obj\Debug\net8.0\ref\Uge 6 menu.dll

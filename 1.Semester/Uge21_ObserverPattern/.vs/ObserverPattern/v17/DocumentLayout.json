@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D90991-6FC6-4F0D-8D00-81722384993F}|ObserverPatternTest\\ObserverPatternTest.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\observerpattern\\observerpatterntest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D90991-6FC6-4F0D-8D00-81722384993F}|ObserverPatternTest\\ObserverPatternTest.csproj|solutionrelative:observerpatterntest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\observerpattern\\observerpattern\\concreteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\concreteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\observerpattern\\observerpattern\\concretesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\concretesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\observerpattern\\observerpattern\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\observerpattern\\observerpattern\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\observerpattern\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06555C5F-AA50-4950-8307-14BA6BA223C0}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ObserverPatternTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPatternTest\\UnitTest1.cs",
+              "RelativeToolTip": "ObserverPatternTest\\UnitTest1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:42:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ConcreteObserver.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\ConcreteObserver.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ConcreteObserver.cs",
+              "RelativeToolTip": "ObserverPattern\\ConcreteObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:32:27.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ConcreteSubject.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\ConcreteSubject.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\ConcreteSubject.cs",
+              "RelativeToolTip": "ObserverPattern\\ConcreteSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:31:54.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\Observer.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Observer.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\Observer.cs",
+              "RelativeToolTip": "ObserverPattern\\Observer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:27:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\Subject.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Subject.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\Subject.cs",
+              "RelativeToolTip": "ObserverPattern\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:26:52.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:26:26.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

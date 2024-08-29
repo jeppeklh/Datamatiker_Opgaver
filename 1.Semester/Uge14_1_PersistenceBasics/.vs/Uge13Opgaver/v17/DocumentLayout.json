@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|c:\\users\\jeppe lynge\\documents\\datamatikernoter\\datamatiker_opgaver\\uge13_\\uge13opgaver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|solutionrelative:uge13opgaver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|c:\\users\\jeppe lynge\\documents\\datamatikernoter\\datamatiker_opgaver\\uge13_\\uge13opgaver\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|solutionrelative:uge13opgaver\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|c:\\users\\jeppe lynge\\documents\\datamatikernoter\\datamatiker_opgaver\\uge13_\\uge13opgaver\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|solutionrelative:uge13opgaver\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127F7A4D-F7EA-493F-8003-15E13F9551B4}|Uge13OpgaverTest\\Uge13OpgaverTest.csproj|c:\\users\\jeppe lynge\\documents\\datamatikernoter\\datamatiker_opgaver\\uge13_\\uge13opgavertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127F7A4D-F7EA-493F-8003-15E13F9551B4}|Uge13OpgaverTest\\Uge13OpgaverTest.csproj|solutionrelative:uge13opgavertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|c:\\users\\jeppe lynge\\documents\\datamatikernoter\\datamatiker_opgaver\\uge13_\\uge13opgaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D7F5CA-854F-4692-B7F9-E95DF7FF26AA}|Uge13Opgaver\\Uge13Opgaver.csproj|solutionrelative:uge13opgaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.txt",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\Data.txt",
+              "RelativeDocumentMoniker": "Uge13Opgaver\\Data.txt",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\Data.txt",
+              "RelativeToolTip": "Uge13Opgaver\\Data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-23T14:30:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\DataHandler.cs",
+              "RelativeDocumentMoniker": "Uge13Opgaver\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\DataHandler.cs",
+              "RelativeToolTip": "Uge13Opgaver\\DataHandler.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:17:57.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\Person.cs",
+              "RelativeDocumentMoniker": "Uge13Opgaver\\Person.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\Person.cs",
+              "RelativeToolTip": "Uge13Opgaver\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:59:11.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13OpgaverTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Uge13OpgaverTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13OpgaverTest\\UnitTest1.cs",
+              "RelativeToolTip": "Uge13OpgaverTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:57:09.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\Program.cs",
+              "RelativeDocumentMoniker": "Uge13Opgaver\\Program.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\DatamatikerNoter\\Datamatiker_Opgaver\\Uge13_\\Uge13Opgaver\\Program.cs",
+              "RelativeToolTip": "Uge13Opgaver\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:56:29.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

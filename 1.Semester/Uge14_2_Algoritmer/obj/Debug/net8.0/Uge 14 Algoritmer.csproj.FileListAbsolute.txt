@@ -1,0 +1,15 @@
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\bin\Debug\net8.0\Uge 14 Algoritmer.exe
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\bin\Debug\net8.0\Uge 14 Algoritmer.deps.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\bin\Debug\net8.0\Uge 14 Algoritmer.runtimeconfig.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\bin\Debug\net8.0\Uge 14 Algoritmer.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\bin\Debug\net8.0\Uge 14 Algoritmer.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.AssemblyInfoInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.AssemblyInfo.cs
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.sourcelink.json
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\refint\Uge 14 Algoritmer.dll
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.pdb
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\Uge 14 Algoritmer.genruntimeconfig.cache
+C:\Users\Jeppe Lynge\Documents\Visual Studio projekter\Uge-14-Algoritmer\obj\Debug\net8.0\ref\Uge 14 Algoritmer.dll

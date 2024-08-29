@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfAndMVVM1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAndMVVM1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label1" Content="{Binding Path=Text, ElementName=tbox1}" HorizontalAlignment="Left" Margin="105,86,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbox1" HorizontalAlignment="Left" Height="26" Margin="188,86,0,0" TextWrapping="Wrap" Text="bobr" VerticalAlignment="Top" Width="212"/>
+        <TextBox x:Name="tbox2" HorizontalAlignment="Left" Margin="130,156,0,0" TextWrapping="Wrap" Text="{Binding Path=Text, ElementName=tbox3, UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbox3" HorizontalAlignment="Left" Margin="312,156,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="130,0,0,0" VerticalAlignment="Center" Width="120" Maximum="100"/>
+        <TextBox x:Name="tboxSlider" HorizontalAlignment="Left" Margin="312,0,0,0" TextWrapping="Wrap" Text="{Binding ElementName=slider1, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center" Width="120"/>
+        <Slider x:Name="slider2" HorizontalAlignment="Left" Margin="130,258,0,0" VerticalAlignment="Top" Width="120" Maximum="100"/>
+        <TextBox x:Name="tboxSlider2" HorizontalAlignment="Left" Margin="312,249,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label2" Content="{Binding Path=MyLabelText, Mode=OneWay}" HorizontalAlignment="Left" Margin="173,313,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="updateLabelButton" Content="Update Label" HorizontalAlignment="Left" Margin="385,308,0,0" VerticalAlignment="Top" Click="updateLabelButton_Click"/>
+        <TextBox x:Name="tboxUpdate" HorizontalAlignment="Left" Margin="123,371,0,0" TextWrapping="Wrap" Text="{Binding Path=MyTextBoxText, Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="UpdateTBoxButton" Content="Update TextBox" HorizontalAlignment="Left" Margin="385,369,0,0" VerticalAlignment="Top" Click="UpdateTBoxButton_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\wpfandmvvm2\\wpfandmvvm2\\commands\\deletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\commands\\deletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\wpfandmvvm2\\wpfandmvvm2\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\jeppe lynge\\documents\\visual studio projekter\\wpfandmvvm2\\wpfandmvvm2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "RelativeToolTip": "WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:05:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:52:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\Commands\\DeleteCommand.cs",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\Commands\\DeleteCommand.cs",
+              "ToolTip": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\Commands\\DeleteCommand.cs",
+              "RelativeToolTip": "WPFAndMVVM2\\Commands\\DeleteCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:49:54.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

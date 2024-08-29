@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vp1EfNtGVCg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeppe Lynge\\Documents\\Visual Studio projekter\\WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeppe Lynge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Jeppe Lynge\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Jeppe Lynge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Jeppe Lynge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
